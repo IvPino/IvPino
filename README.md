@@ -29,7 +29,10 @@ $ cat about_me.txt
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 **Security & tools**
 
@@ -44,7 +47,29 @@ $ cat about_me.txt
 
 ### 🚀 Featured project
 
-**[Visión de lo Alto](https://github.com/IvPino/VisionDeLoAltoSeguridad.Standalone)**: my website, built from scratch with **Blazor WebAssembly (standalone)** and C#.
+<table>
+<tr>
+<td>
+
+#### 🛡️ [Visión De Lo Alto Seguridad](https://visiondeloaltoseguridad.cl)
+
+Corporate website for a private security company in San Fernando, Chile. Designed, built and deployed end to end.
+
+**Stack:** Blazor WebAssembly Standalone · .NET 10 · C# · Bootstrap · PHP (PHPMailer) · Apache
+
+**Highlights**
+- ⚡ 100% static site: no .NET server, just WebAssembly running in the browser
+- 📱 Responsive layout with mobile menu, service carousel and client logo carousel
+- 📨 Contact and job application forms (PDF CV upload) sent through authenticated SMTP
+- 🔒 Form hardening: CORS origin allowlist, honeypot field against bots and per-IP rate limiting
+- 🔍 SEO ready: per-page titles and meta tags, Open Graph previews, `sitemap.xml` and `robots.txt`
+- 🚀 Apache `.htaccess` for SPA routing, domain redirect and cache busting on each release
+
+🔗 **Live:** [visiondeloaltoseguridad.cl](https://visiondeloaltoseguridad.cl)
+
+</td>
+</tr>
+</table>
 
 ---
 
