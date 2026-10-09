@@ -44,7 +44,7 @@ $ cat about_me.txt
 
 ### 🚀 Featured project
 
-**[Visión de lo Alto](https://github.com/IvPino/visiondeloalto-standalone)**: my website, built from scratch with **Blazor WebAssembly (standalone)** and C#.
+**[Visión de lo Alto](https://github.com/IvPino/VisionDeLoAltoSeguridad.Standalone)**: my website, built from scratch with **Blazor WebAssembly (standalone)** and C#.
 
 ---
 
