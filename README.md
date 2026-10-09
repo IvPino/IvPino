@@ -14,7 +14,7 @@ $ cat about_me.txt
 ```
 
 - 🛡️ On my way to becoming a **professional cybersecurity analyst**
-- 🌐 Currently learning **web development** (because to defend the web, you have to understand it)
+- 🌐 Building web apps with **Blazor & .NET** (because to defend the web, you have to understand it)
 - 🧪 Practicing in labs, CTFs and hands-on challenges
 - 🇨🇱 Based in Chile
 - 📫 Reach me at **ivpinof@yahoo.com**
@@ -27,7 +27,9 @@ $ cat about_me.txt
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Security & tools**
 
@@ -40,11 +42,18 @@ $ cat about_me.txt
 
 ---
 
+### 🚀 Featured project
+
+**[Visión de lo Alto](https://github.com/IvPino/visiondeloalto-standalone)**: my website, built from scratch with **Blazor WebAssembly (standalone)** and C#.
+
+---
+
 ### 🗺️ Current roadmap
 
 - [x] Networking fundamentals
 - [x] Linux command line
-- [ ] Web fundamentals (HTML, CSS, JS)
+- [x] Web fundamentals (HTML, CSS)
+- [ ] Blazor & C# in depth
 - [ ] Python scripting for security
 - [ ] Web application security (OWASP Top 10)
 - [ ] SOC / Blue Team skills
